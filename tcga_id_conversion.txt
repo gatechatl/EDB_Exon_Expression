@@ -1,0 +1,10 @@
+Name	RPKM	Type
+unc.edu.4a8c96d9-b08d-4812-93ec-c8c9db8139aa.1764459.bt.exon_quantification.txt	1.72183708081437	TCGA_BRCA
+unc.edu.51d9b960-276a-4c7b-b135-f2f8c05f3bd6.1951389.bt.exon_quantification.txt	12.2997498017537	TCGA_BRCA
+unc.edu.aad871a8-1a52-4e96-8b13-444d08289236.1757126.bt.exon_quantification.txt	106.651089442805	TCGA_BRCA
+unc.edu.e4d09b12-f1b4-4d66-bc6c-ccd32ad8185b.1764503.bt.exon_quantification.txt	89.8084533383535	TCGA_BRCA
+unc.edu.be1f09ae-deec-45d7-8504-fea3f6e7feb4.1769269.bt.exon_quantification.txt	25.1068329017992	TCGA_BRCA
+unc.edu.afaeb45f-d795-4fe0-b4ee-5b90816e6427.1768074.bt.exon_quantification.txt	39.0724050671708	TCGA_BRCA
+unc.edu.a2cf164c-5b26-43eb-9de9-d1d457a5de06.1766458.bt.exon_quantification.txt	71.5385655240103	TCGA_BRCA
+unc.edu.9857acef-08eb-43d6-b086-4b513e23753a.1769790.bt.exon_quantification.txt	30.0520559499843	TCGA_BRCA
+unc.edu.70546486-80a3-452c-8722-1bd7b14d5ac4.1762725.bt.exon_quantification.txt	49.4574625844807	TCGA_BRCA
