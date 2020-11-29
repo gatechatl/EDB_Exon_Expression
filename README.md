@@ -5,6 +5,6 @@ run step1 to compile the java programs.
 
 run step2 to execute the pipeline.
 
-The program parses through the downloaded GDC data and extract the EDB exon expression.
+After downloading the GDC data, our program will parses through files and extract the EDB exon expression.
 
-The complete data folder can be downloaded from here.
+While an example folder was provided here, we have also tarzipped the complete folder and can be downloaded here (insert link)
